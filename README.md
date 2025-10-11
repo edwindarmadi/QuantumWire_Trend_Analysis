@@ -39,5 +39,12 @@ Overall focus would need to be stabilizing post-pandemic performance by analyzin
 
 ## Growth Rates
 
+<img width="4489" height="1575" alt="Sales Revenue By Product" src="https://github.com/user-attachments/assets/3d39d7ac-e330-4aa8-8e1c-23e261f2bbe8" />
+
+<p></p>
+
+Sales Revenue exploded with a 163% gain from 2019 to 2020. The 3 main products accounting for that growth was the Macbook Air Laptop, ThinkPad Laptop and Apple Iphone. Sales Revenue growth for each item increased by 384%, 222% and 170% respectively. Despite that, the best selling product by revenue is the 27in 4K Gaming Monitor accounting for over 30% in sales revenue consistently each year form 2019 to 2022
+
+
 
 
