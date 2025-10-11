@@ -45,6 +45,17 @@ Overall focus would need to be stabilizing post-pandemic performance by analyzin
 
 Sales Revenue exploded with a 163% gain from 2019 to 2020. The 3 main products accounting for that growth was the Macbook Air Laptop, ThinkPad Laptop and Apple Iphone. Sales Revenue growth for each item increased by 384%, 222% and 170% respectively. Despite that, the best selling product by revenue is the 27in 4K Gaming Monitor accounting for over 30% in sales revenue consistently each year form 2019 to 2022
 
+## Loyalty Program Trends
+
+<img width="2612" height="1528" alt="Loyalty Member Trend" src="https://github.com/user-attachments/assets/c7a41914-81bc-46f6-b9bf-d89a35b506c8" />
+
+
+<p></p>
+
+Since launching the 202
+
+## Refund Rates Across Apple Products
+
 
 
 
