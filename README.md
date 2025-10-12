@@ -37,6 +37,11 @@ The 2020 surge coincided with the onset of the COVID-19 pandemic, when consumer 
 
 Overall focus would need to be stabilizing post-pandemic performance by analyzing customer retention and product mix to identify repeat purchase opportunities. Consider reinforcing marketing and loyalty initiatives that proved successful during the 2020 growth period to re-engage high-value segments.
 
+## By Product
+
+<img width="3914" height="2090" alt="Sales By Quarter By Product 5" src="https://github.com/user-attachments/assets/ef98c90e-33e8-47a0-bdf4-198de13c6709" />
+
+
 ## Growth Rates
 
 <img width="4489" height="1575" alt="Sales Revenue By Product" src="https://github.com/user-attachments/assets/3d39d7ac-e330-4aa8-8e1c-23e261f2bbe8" />
