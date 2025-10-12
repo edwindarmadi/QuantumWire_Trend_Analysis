@@ -54,7 +54,10 @@ Sales Revenue exploded with a 163% gain from 2019 to 2020. The 3 main products a
 
 Since launching the 202
 
-## Refund Rates Across Apple Products
+## Refund Rates
+
+### Apple Product Refund Rates
+
 
 
 
