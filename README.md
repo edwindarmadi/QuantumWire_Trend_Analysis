@@ -44,6 +44,9 @@ Overall focus would need to be stabilizing post-pandemic performance by analyzin
 
 ## Growth Rates
 
+<img width="3089" height="2134" alt="Top 3 Products Growth Rate" src="https://github.com/user-attachments/assets/aef57f3d-fdbb-4f5e-a7ff-1b23cde746ba" />
+
+
 <p></p>
 
 Sales Revenue exploded with a 163% gain from 2019 to 2020. The 3 main products accounting for that growth was the Macbook Air Laptop, ThinkPad Laptop and Apple Iphone. Sales Revenue growth for each item increased by 384%, 222% and 170% respectively. Despite that, the best selling product by revenue is the 27in 4K Gaming Monitor accounting for over 30% in sales revenue consistently each year form 2019 to 2022
@@ -61,10 +64,14 @@ Since launching the 202
 
 <img width="2819" height="1906" alt="Refund Rates By Product" src="https://github.com/user-attachments/assets/5992f48d-4495-4f53-8abe-9a76590e3054" />
 
+<img width="1522" height="484" alt="Total Refund Rates 2" src="https://github.com/user-attachments/assets/fba8a4f7-9a1f-4f52-830d-635e33c23b78" />
+
+
 
 ### Apple Product Refund Rates
+  
+<img width="2609" height="1844" alt="Apple Products Refund Rates" src="https://github.com/user-attachments/assets/5ce64900-566d-4464-af04-218df7e157d2" />
 
-
-
+## Recommendations
 
 
