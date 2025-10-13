@@ -6,7 +6,9 @@ Founded in 2018, QuantumWire is a global e-commerce company specializing in popu
 
 <details>
 <summary>Project Goals</summary>
+  
   <p></p>
+  
 QuantumWire has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
 
   <p></p>
@@ -31,15 +33,21 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 <p></p>
 
-From 2019–2022, QuantumWire generated $28M in total sales across 108K orders, with an average order value (AOV) of $260. Sales revenue rose steadily through 2019 before spiking sharply in 2020, peaking at $3M in Q4.
+* From 2019–2022, QuantumWire generated $28M in total sales across 108K orders, with an average order value (AOV) of $260. Sales revenue rose steadily through 2019 before spiking sharply in 2020, peaking at $3M in Q4.
 
-The 2020 surge coincided with the onset of the COVID-19 pandemic, when consumer demand shifted heavily toward online electronics purchases. However, as conditions normalized, sales began to decline—dropping by roughly 10% in 2021 and a further 46% in 2022 resulting in a return to a more typical pre-2020 baseline.
+* The 2020 surge coincided with the onset of the COVID-19 pandemic, when consumer demand shifted heavily toward online electronics purchases. However, as conditions normalized, sales began to decline—dropping by roughly 10% in 2021 and a further 46% in 2022 resulting in a return to a more typical pre-2020 baseline.
 
-Overall focus would need to be stabilizing post-pandemic performance by analyzing customer retention and product mix to identify repeat purchase opportunities. Consider reinforcing marketing and loyalty initiatives that proved successful during the 2020 growth period to re-engage high-value segments.
+* A focus on key revenue drivers of the 2020 surge should be looked into to see if we can redo or add on top of the success found in 2020
+
+* Overall focus would need to be stabilizing post-pandemic performance by analyzing customer retention and product mix to identify repeat purchase opportunities. Consider reinforcing marketing and loyalty initiatives that proved successful during the 2020 growth period to re-engage high-value segments.
 
 ## Sales Revenue By Product
 
 <img width="3914" height="2090" alt="Sales By Quarter By Product 5" src="https://github.com/user-attachments/assets/ef98c90e-33e8-47a0-bdf4-198de13c6709" />
+
+* Diving deeper into the key products driving revenue, 85% of all revenue was because of 3 products - 27in 4K Gaming Monitor, Apple Airpods Headphones and Macbook Air Laptop. A possible look into selling more of these products or upselling with other products could increase revenue overall.
+
+* On the flip side, looking into the other products to replace with other products could help increase revenue as well
 
 
 ## Growth Rates
@@ -62,9 +70,12 @@ Since launching the 202
 
 ## Refund Rates
 
-<img width="2819" height="1906" alt="Refund Rates By Product" src="https://github.com/user-attachments/assets/5992f48d-4495-4f53-8abe-9a76590e3054" />
+<img width="2240" height="1458" alt="Refund Rates By Product 3" src="https://github.com/user-attachments/assets/afc265c9-83b6-44ce-a36d-4d01aa57d3aa" />
 
-<img width="1522" height="484" alt="Total Refund Rates 2" src="https://github.com/user-attachments/assets/fba8a4f7-9a1f-4f52-830d-635e33c23b78" />
+<img width="1597" height="423" alt="Total Refund Rates 3" src="https://github.com/user-attachments/assets/525370a7-52cf-4b7e-af63-65b223ac9524" />
+
+
+
 
 
 
