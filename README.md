@@ -37,7 +37,7 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 * The 2020 spike aligned with the onset of the COVID-19 pandemic, when consumer demand shifted heavily toward online electronics purchases. As market conditions normalized, sales declined—falling roughly 10% in 2021 and 46% in 2022—returning to a more typical pre-pandemic baseline.
 
-* The 2020 performance serves as a benchmark for QuantumWire’s strongest growth potential. The surge was likely driven by high-demand product categories and accelerated online adoption. Analyzing the specific products, campaigns, and customer behaviors that fueled this period could help identify strategies to reignite sustainable growth in the current market.
+* The 2020 performance serves as a benchmark for QuantumWire’s strongest growth opportunity. The surge was likely driven by high-demand product categories and accelerated online adoption. Analyzing the specific products, campaigns, and customer behaviors that fueled this period could help identify strategies to reignite an uptrend in Sales Revenue
 
 ## Sales Revenue By Product
 
@@ -45,7 +45,7 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 * Diving deeper into product performance, three items—the 27in 4K Gaming Monitor, Apple AirPods, and MacBook Air—accounted for nearly 85% of total revenue. This heavy concentration suggests that QuantumWire’s growth is strongly tied to a few top-performing products. Exploring ways to expand or upsell within these categories, such as bundling accessories or offering premium variations, could further increase revenue and strengthen customer loyalty.
 
-* Conversely, reviewing the lower-performing products may reveal opportunities to phase out or replace underperforming SKUs. Streamlining the product portfolio and reallocating marketing resources toward high-demand items could improve overall profitability and sales efficiency.
+* Conversely, reviewing the lower-performing products may reveal opportunities to phase out or replace underperforming products. Streamlining the product portfolio and reallocating marketing resources toward high-demand items could improve overall profitability and sales efficiency.
 
 ## Growth Rates
 
@@ -54,9 +54,9 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 <p></p>
 
-* A closer look at QuantumWire’s top three products — the 27in 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop — reveals that these items consistently generated the majority of total sales revenue from 2019–2022. The Gaming Monitor remained the most stable performer, contributing over 30% of revenue each year, while the MacBook Air drove the largest single-year growth during the 2020 surge.
+* A closer look at QuantumWire’s top three products — the 27in 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop — highlights the growth during the 2020 surge and decline thereafter. The Gaming Monitor remained the most stable performer, contributing over 30% of revenue each year, while the MacBook Air drove the largest single-year growth during the 2020 surge.
 
-* MacBook Air sales grew more than 380% from 2019 to 2020, making it the company’s fastest-growing product. However, sales have since declined significantly as post-pandemic demand normalized. Renewed focus on this category—through targeted marketing, refreshed product bundles, or complementary upsells such as accessories and protection plans—could help revive interest and lift overall revenue.
+* MacBook Air sales grew more than 380% from 2019 to 2020, making it the company’s fastest-growing product. However, it also had the greatest decline among the 3 products, with sales declining -35% in 2021 and then a further -55% decline in 2022 as post-pandemic demand normalized. Renewed focus on targeted marketing, refreshed product bundles, or complementary upsells such as accessories and protection plans—could help revive interest and lift overall revenue for the Macbook Air
 
 * While the Gaming Monitor continues to anchor sales and the AirPods maintain solid mid-level performance, the MacBook Air’s earlier success highlights a proven area of customer demand worth re-engaging. Reinvesting in this product line could help QuantumWire balance short-term stability with renewed long-term growth potential.
 
@@ -68,11 +68,11 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 * Since launching the Loyalty Program in 2019, Non-Loyalty members have generated $17M in total revenue, compared to $10M from Loyalty members. However, from 2021–2022, Loyalty members surpassed Non-Loyalty members in both revenue and sales volume, signaling growing engagement within the program.
 
-* In 2021, Non-Loyalty members led with 16,306 sales versus 19,552 for Loyalty members, but their average order value (AOV) lagged slightly at $249 compared to $261. By 2022, this trend reversed—Loyalty members achieved a higher AOV ($245 vs. $214), further underscoring their increased long-term value.
+* In 2021, Loyalty members led with 19,552 sales versus 16,306 for Non-Loyalty members, but their average order value (AOV) lagged slightly at $249 compared to $261. By 2022, this trend reversed—Loyalty members achieved a higher AOV ($245 vs. $214), further underscoring their increased long-term value.
 
 * Over time, Loyalty Member sales revenue has shown consistent growth, overtaking Non-Loyalty revenue in Q2 2021 and stabilizing at 50–60% of total sales revenue. This sustained performance suggests that the program has successfully converted customers into repeat purchasers.
 
-* The Loyalty Program should continue as a core driver of customer retention. Although revenue growth flattened from late 2021 through early 2022, the long-term trend remains positive. Ongoing monitoring of engagement and purchase frequency will help determine how to further strengthen the program’s impact.
+* The Loyalty Program should continue as a core driver of customer retention. Although Loyalty Member Revenue Growth has been flat from late 2021 through early 2022, the long-term trend remains positive. Ongoing monitoring of Revenue Trends and Purchase Frequency will help determine how to further strengthen the program’s impact.
 
 ## Refund Rates
 
@@ -86,16 +86,16 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 * However, looking beyond total return counts, the refund rate (the percentage of each product sold that was refunded) reveals a different risk profile. The ThinkPad Laptop (11.7%) and MacBook Air Laptop (11.4%) have the highest refund rates, despite representing a smaller share of total sales. Both products also carry high average order values (AOVs)—$1,100 and $1,588 respectively—meaning each return has an outsized impact on revenue.
 
-These findings indicate two parallel opportunities for improvement:
+These findings indicate two areas of opportunity for Refunds:
 
-Operationally: Reduce return volume for the AirPods and Gaming Monitor through better product quality checks, packaging, or customer education.
+Look into reducing return volume for the AirPods and Gaming Monitor through better product quality checks, packaging, or customer education.
 
-Financially: Investigate refund drivers for the ThinkPad and MacBook Air, where even a small reduction in refund rate could significantly protect revenue given their high AOVs.
+Investigate refund drivers for the ThinkPad and MacBook Air, where even a small reduction in refund rate could significantly protect revenue given their high AOVs.
 
-Addressing these issues collectively could not only lower overall refund costs but also improve customer satisfaction and margin stability across QuantumWire’s core product lines.
+Addressing these issues collectively could not only lower overall refund but also improve customer satisfaction and margin stability across QuantumWire’s core product lines.
 
 
-### Apple Product Refund Rates
+## Apple Product Refund Rates
   
 <img width="2609" height="1844" alt="Apple Products Refund Rates" src="https://github.com/user-attachments/assets/5ce64900-566d-4464-af04-218df7e157d2" />
 
@@ -109,4 +109,14 @@ Addressing these issues collectively could not only lower overall refund costs b
 
 ## Recommendations
 
+### Sales
+* Analyze specific products, campaigns and customer behaviors that could reignite growth in Sales Revenue.
+* Look deeper into the Top 3 Products and come up with strategies to expand or upsell through these products to increase revenue and streamline product portfolio
+* Given the significant decline in sales by the Macbook Air, a look into ways to improve marketing, upsell or cross selling could be implemented to reverse sales trend.
 
+### Loyalty Program
+* With the positive trend in Loyalty Member revenue, order count and AOV, finding way to further enhance member benefits through exclusive rewards, discounts and promotions could increase its appeal
+
+### Refunds
+* Look into the high refund rate for the Thinkpad and Macbook Air and tweak any operational quirks that could be driving this high rate such as service or packaging.
+* Look into reducing return volume for Airpods and Gaming Monitor as they account for a significant number of refunds. Resolving this can improve operational efficiency and increase customer satisfaction.
