@@ -49,8 +49,7 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 ## Growth Rates
 
-<img width="3089" height="2134" alt="Top 3 Products Growth Rate" src="https://github.com/user-attachments/assets/aef57f3d-fdbb-4f5e-a7ff-1b23cde746ba" />
-
+<img width="3703" height="2151" alt="Top 3 Products Growth Rate Line Graph" src="https://github.com/user-attachments/assets/8da105b7-83b2-48b8-bcd5-20173e10c70a" />
 
 <p></p>
 
@@ -61,8 +60,10 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 * While the Gaming Monitor continues to anchor sales and the AirPods maintain solid mid-level performance, the MacBook Air’s earlier success highlights a proven area of customer demand worth re-engaging. Reinvesting in this product line could help QuantumWire balance short-term stability with renewed long-term growth potential.
 
 ## Loyalty Program Trends
+<table><tr><td><img width="2700" height="1771" alt="Loyalty Member Trend" src="https://github.com/user-attachments/assets/52d9a3bf-032f-4de2-a417-addc360d0978" />
+</td><td><img width="2529" height="1686" alt="Loyalty Member Trend 2" src="https://github.com/user-attachments/assets/806bc6f3-7e2a-4984-ae25-d79aedcf0341" /></td></tr></table>
 
-<img width="2612" height="1528" alt="Loyalty Member Trend" src="https://github.com/user-attachments/assets/c7a41914-81bc-46f6-b9bf-d89a35b506c8" />
+
 
 <p></p>
 
