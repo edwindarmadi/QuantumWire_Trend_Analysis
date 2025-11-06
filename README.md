@@ -57,8 +57,6 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 * MacBook Air sales grew more than 380% from 2019 to 2020, making it the company’s fastest-growing product. However, it also had the greatest decline among the 3 products, with sales declining -35% in 2021 and then a further -55% decline in 2022 as post-pandemic demand normalized. Renewed focus on targeted marketing, refreshed product bundles, or complementary upsells such as accessories and protection plans—could help revive interest and lift overall revenue for the Macbook Air
 
-* While the Gaming Monitor continues to anchor sales and the AirPods maintain solid mid-level performance, the MacBook Air’s earlier success highlights a proven area of customer demand worth re-engaging. Reinvesting in this product line could help QuantumWire balance short-term stability with renewed long-term growth potential.
-
 ## Loyalty Program Trends
 <table><tr><td><img width="2700" height="1771" alt="Loyalty Member Trend" src="https://github.com/user-attachments/assets/52d9a3bf-032f-4de2-a417-addc360d0978" />
 </td><td><img width="2529" height="1686" alt="Loyalty Member Trend 2" src="https://github.com/user-attachments/assets/806bc6f3-7e2a-4984-ae25-d79aedcf0341" /></td></tr></table>
@@ -66,6 +64,10 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 
 <p></p>
+
+*Since launching the Loyalty Program in 2019, the share of loyalty member revenue has been shown consistent growth upwards and eventually overtaking Non-loyalty in Q2 2021 and stabilizing at 50-60% of sale revenue. This sustained performance suggests that the program has been successful in converting customers into repeat purchasers.
+
+*Looking at Total Revenue tells a slightly different story where since the start of the loyalty program, non-loyalty members have generated 17M in total where as Loyalty members contributed 10M. However, from 2021–2022, Loyalty members surpassed Non-Loyalty members in both revenue and sales volume, signaling growing engagement within the program.
 
 * Since launching the Loyalty Program in 2019, Non-Loyalty members have generated $17M in total revenue, compared to $10M from Loyalty members. However, from 2021–2022, Loyalty members surpassed Non-Loyalty members in both revenue and sales volume, signaling growing engagement within the program.
 
