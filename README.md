@@ -63,8 +63,6 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 
 <p></p>
 
-Story: Total revenue was higher for NL but as revenue declined, the share of loyalty member purchases also increased and overtook NL members. 
-
 * Since launching the Loyalty Program in 2019, Non-Loyalty members have generated $17M in total revenue, while Loyalty members have contributed $10M. While Non-Loyalty sales were initially dominant, Loyalty revenue share climbed rapidly—from just 11% in 2019 to over 53% by 2021, where it has remained steady through 2022.
 
 * However, most of that shift is appears to be due to a drop in overall revenue, not growth in Loyalty revenue. As total revenue declined, Loyalty came to represent a larger share of sales. The increase in share looks positive at first glance, but it’s appears to it's due to Non-Loyalty is falling, not because Loyalty revenue is growing quickly.
@@ -107,12 +105,13 @@ Addressing these issues collectively could not only lower overall refund but als
 ## Recommendations
 
 ### Sales
-* Analyze specific products, campaigns and customer behaviors that could reignite growth in Sales Revenue.
-* Look deeper into the Top 3 Products and come up with strategies to expand or upsell through these products to increase revenue and streamline product portfolio
+* Analyze specific products, campaigns and customer behaviors to identify strategies that could reignite growth in Sales Revenue.
+* Come up with strategies to expand or upsell the Top 3 Product while reviewing lower-performing products to phase out or replace to increase revenue and streamline product portfolio.
 * Given the significant decline in sales by the Macbook Air, a look into ways to improve marketing, upsell or cross selling could be implemented to reverse sales trend.
 
 ### Loyalty Program
-* With the positive trend in Loyalty Member revenue, order count and AOV, finding way to further enhance member benefits through exclusive rewards, discounts and promotions could increase its appeal
+* Continue with Loyalty Program and closely monitor to reveal trends in Sales Recovery either through loyal customers or new customers
+* Additionally, finding ways to further enhance member benefits through exclusive rewards, discounts and promotions could increase growth in Loyalty Member metrics such as Sales Revenue, AOV and Order Count
 
 ### Refunds
 * Look into the high refund rate for the Thinkpad and Macbook Air and tweak any operational quirks that could be driving this high rate such as service or packaging.
