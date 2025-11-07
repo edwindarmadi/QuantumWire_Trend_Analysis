@@ -61,21 +61,15 @@ In cleaning and analyzing QuantumWire's data, meaningful insights can be extract
 <table><tr><td><img width="2700" height="1771" alt="Loyalty Member Trend" src="https://github.com/user-attachments/assets/52d9a3bf-032f-4de2-a417-addc360d0978" />
 </td><td><img width="2529" height="1686" alt="Loyalty Member Trend 2" src="https://github.com/user-attachments/assets/806bc6f3-7e2a-4984-ae25-d79aedcf0341" /></td></tr></table>
 
-
-
 <p></p>
 
-*Since launching the Loyalty Program in 2019, the share of loyalty member revenue has been shown consistent growth upwards and eventually overtaking Non-loyalty in Q2 2021 and stabilizing at 50-60% of sale revenue. This sustained performance suggests that the program has been successful in converting customers into repeat purchasers.
+Story: Total revenue was higher for NL but as revenue declined, the share of loyalty member purchases also increased and overtook NL members. 
 
-*Looking at Total Revenue tells a slightly different story where since the start of the loyalty program, non-loyalty members have generated 17M in total where as Loyalty members contributed 10M. However, from 2021–2022, Loyalty members surpassed Non-Loyalty members in both revenue and sales volume, signaling growing engagement within the program.
+* Since launching the Loyalty Program in 2019, Non-Loyalty members have generated $17M in total revenue, while Loyalty members have contributed $10M. While Non-Loyalty sales were initially dominant, Loyalty revenue share climbed rapidly—from just 11% in 2019 to over 53% by 2021, where it has remained steady through 2022.
 
-* Since launching the Loyalty Program in 2019, Non-Loyalty members have generated $17M in total revenue, compared to $10M from Loyalty members. However, from 2021–2022, Loyalty members surpassed Non-Loyalty members in both revenue and sales volume, signaling growing engagement within the program.
+* However, most of that shift is appears to be due to a drop in overall revenue, not growth in Loyalty revenue. As total revenue declined, Loyalty came to represent a larger share of sales. The increase in share looks positive at first glance, but it’s appears to it's due to Non-Loyalty is falling, not because Loyalty revenue is growing quickly.
 
-* In 2021, Loyalty members led with 19,552 sales versus 16,306 for Non-Loyalty members, but their average order value (AOV) lagged slightly at $249 compared to $261. By 2022, this trend reversed—Loyalty members achieved a higher AOV ($245 vs. $214), further underscoring their increased long-term value.
-
-* Over time, Loyalty Member sales revenue has shown consistent growth, overtaking Non-Loyalty revenue in Q2 2021 and stabilizing at 50–60% of total sales revenue. This sustained performance suggests that the program has successfully converted customers into repeat purchasers.
-
-* The Loyalty Program should continue as a core driver of customer retention. Although Loyalty Member Revenue Growth has been flat from late 2021 through early 2022, the long-term trend remains positive. Ongoing monitoring of Revenue Trends and Purchase Frequency will help determine how to further strengthen the program’s impact.
+* The company should continue investing in the Loyalty Program, it has shown to help retain sales during a period of revenue decline. Going forward, Loyalty revenue will be a key signal to track whether new growth is returning. Monitoring it closely will help determine if recovery is being driven by existing loyal customers or by broader improvements in customer acquisition.
 
 ## Refund Rates
 
@@ -106,7 +100,7 @@ Addressing these issues collectively could not only lower overall refund but als
 
 * Within QuantumWire’s Apple product line, MacBook Air Laptops and AirPods Headphones account for 99% of all refunds, making them the key contributors to Apple-related return volume. This is largely consistent across the 2019–2022 period, highlighting a structural trend in customer behavior rather than a short-term fluctuation.
 
-* While the iPhone represents only a small share of total refunds, it ranks among the top three products in refund rate across all categories. With an average order value (AOV) of $741, even a minor increase in its refund rate could have a disproportionate effect on revenue compared to lower-priced products such as AirPods. Monitoring iPhone return trends and identifying early refund triggers could prevent high-value revenue loss while maintaining customer satisfaction.
+* While the iPhone represents only a small share of total refunds, it ranks third in product refund rate across all categories. With an average order value (AOV) of $741, even a minor increase in its refund rate could have a disproportionate effect on revenue compared to lower-priced products such as AirPods. Monitoring iPhone return trends and identifying early refund triggers could prevent high-value revenue loss while maintaining customer satisfaction.
 
 * Overall, reducing refund volume for AirPods and MacBooks would improve operational efficiency, while proactively managing refund risk for high-AOV products like the iPhone would safeguard profitability.
 
